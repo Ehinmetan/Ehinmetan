@@ -17,20 +17,20 @@ As a data analyst, I’m curious about the stories hidden in data. I thrive on d
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems,  that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Reading,Discovering new things in my field , mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy [Reading, Discovering new things in my field , mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a customer profile dashboard in Exce.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive Sales dashboard in Power BI.]
+- **Project A:** [ Building a customer profile dashboard in Exce.]  
+- **Project B:** [ Creating an interactive Sales dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Financial Modelling.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [ Financial Modelling.]
+- [Business Acumen.]
 
 ## 🛠️ Technical Skillset
 
