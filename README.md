@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/serah-ehinmetan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/EhinmetanSerah"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X"></a>
+  <a href="https://x.com/EhinmetanSerah"><img src="https://img.shields.io/badge/X-Connect-black?style=for-the-badge&logo=X"></a>
   <a href="mailto:ehinmetanserah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
