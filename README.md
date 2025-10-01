@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy [Reading, Discovering new things in my f
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [ Building a customer profile dashboard in Exce.]  
+- **Project A:** [ Building a customer profile dashboard in Excel.]  
 - **Project B:** [ Creating an interactive Sales dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
